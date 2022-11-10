@@ -76,6 +76,7 @@
   margin-left: 5px;
   margin-right: 5px;
   font-family: monospace;
+  text-align: center;
 }
 
 .badge-liked {
@@ -90,6 +91,7 @@
   margin-left: 5px;
   margin-right: 5px;
   font-family: monospace;
+  text-align: center;
 }
 
 .badge-verified {
@@ -104,6 +106,7 @@
   margin-left: 5px;
   margin-right: 5px;
   font-family: monospace;
+  text-align: center;
 }
 
 .badge-admin {
@@ -118,6 +121,7 @@
   margin-left: 5px;
   margin-right: 5px;
   font-family: monospace;
+  text-align: center;
 }
 
 .badge-banned {
@@ -132,6 +136,7 @@
   margin-left: 5px;
   margin-right: 5px;
   font-family: monospace;
+  text-align: center;
 }
 
 .badge {
@@ -145,6 +150,7 @@
   margin-left: 5px;
   margin-right: 5px;
   font-family: monospace;
+  text-align: center;
 }
 
 .badge-follow {
@@ -159,6 +165,7 @@
   margin-left: 5px;
   margin-right: 5px;
   font-family: monospace;
+  text-align: center;
 }
 
 .hashtag {
@@ -198,4 +205,5 @@ p5 {
   margin-left: 5px;
   margin-right: 5px;
   font-family: monospace;
+  text-align: center;
 }
