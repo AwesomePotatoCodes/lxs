@@ -193,6 +193,11 @@ p5 {
   font-size: 16px;
 }
 
+p {
+  font-family: verdana;
+  font-size: 16px;
+}
+
 .badges-custom {
   background-color: #ffb8b8;
   color: white;
