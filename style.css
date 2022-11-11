@@ -212,3 +212,18 @@ p {
   font-family: monospace;
   text-align: center;
 }
+
+.verified-badge-png {
+  width: 75px;
+  length: 75px;
+}
+
+.notice-bar {
+  border-radius: 5px;
+  padding-left: 3px;
+  padding-right: 3px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  background-color: red;
+  color: white;
+}
