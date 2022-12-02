@@ -48,10 +48,10 @@
 }
 
 .post {
-  background-color: #ededed;
-  border-radius: 5px;
+  background-color: #fcfcfc;
+  border-radius: 2px;
   border-style: solid;
-  border-color: #c9c9c9;
+  border-color: #ededed;
   padding-left: 30px;
   padding-bottom: 5px;
   padding-right: 30px;
