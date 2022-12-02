@@ -45,6 +45,9 @@
   padding-bottom: 16px;
   padding-top: 0.001cm;
   border-radius: 15px;
+  border-style: solid;
+  border-color: #ff6070;
+  border-width: 5px;
 }
 
 .post {
